@@ -24,7 +24,7 @@ Based on a work at [https://www.sqlstyle.guide/][sqlstyleguide].
 
 ### Do
 
-* Naming convention as PascalCase. 
+* Naming convention is PascalCase. 
 * Use consistent and descriptive identifiers and names.
 * Make judicious use of white space and indentation to make code easier to read.
 * Store [ISO 8601][iso-8601] compliant time and date information
