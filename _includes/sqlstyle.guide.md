@@ -53,7 +53,7 @@ UPDATE FileSystem
 
 ### Avoid
 
-* camelCase — it is difficult to scan quickly.
+* Leading commas — it is difficult to scan quickly.
 * Descriptive prefixes or Hungarian notation such as `sp_` or `tbl`.
 * Inconsistent naming, e.g. Process vs Refresh, ChgId vs ExecutionID, etc.
 * Plurals—use the more natural collective term where possible instead. For example
