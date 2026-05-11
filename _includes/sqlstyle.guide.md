@@ -39,7 +39,7 @@ Based on a work at [https://www.sqlstyle.guide/][sqlstyleguide].
 * Avoid using nested SELECTs at all possible, replace with CTEs which are more readable.
 
 ```sql
-SELECT FileHash  -- stored ssdeep hash
+SELECT FileHash  -- Stored ssdeep hash
   FROM FileSystem
  WHERE FileName = '.vimrc';
 ```
